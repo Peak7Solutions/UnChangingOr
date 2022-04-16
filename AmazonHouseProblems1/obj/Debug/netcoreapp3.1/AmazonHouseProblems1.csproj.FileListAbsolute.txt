@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.exe
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.deps.json
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.dll
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\bin\Debug\netcoreapp3.1\AmazonHouseProblems1.pdb
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.dll
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.pdb
+C:\f\CodeChef\UnChangingOr\AmazonHouseProblems1\obj\Debug\netcoreapp3.1\AmazonHouseProblems1.genruntimeconfig.cache

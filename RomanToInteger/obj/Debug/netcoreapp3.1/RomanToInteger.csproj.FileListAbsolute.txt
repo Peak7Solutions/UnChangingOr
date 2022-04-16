@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.exe
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.deps.json
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\f\CodeChef\UnChangingOr\RomanToInteger\bin\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.dll
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.pdb
+C:\f\CodeChef\UnChangingOr\RomanToInteger\obj\Debug\netcoreapp3.1\RomanToInteger.genruntimeconfig.cache

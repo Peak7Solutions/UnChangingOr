@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.exe
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.deps.json
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.dll
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\bin\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.pdb
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.dll
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.pdb
+C:\f\CodeChef\UnChangingOr\SumEvenFibonacciNumbers\obj\Debug\netcoreapp3.1\SumEvenFibonacciNumbers.genruntimeconfig.cache

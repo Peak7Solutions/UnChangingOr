@@ -1,0 +1,14 @@
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.exe
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.deps.json
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.dll
+C:\f\CodeChef\UnChangingOr\UnChangingOr\bin\Debug\netcoreapp3.1\UnChangingOr.pdb
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.csproj.AssemblyReference.cache
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.dll
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.pdb
+C:\f\CodeChef\UnChangingOr\UnChangingOr\obj\Debug\netcoreapp3.1\UnChangingOr.genruntimeconfig.cache

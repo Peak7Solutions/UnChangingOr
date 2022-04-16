@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.exe
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.deps.json
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.dll
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\bin\Debug\netcoreapp3.1\TenThousandand1stPrime.pdb
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.dll
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.pdb
+C:\f\CodeChef\UnChangingOr\TenThousandand1stPrime\obj\Debug\netcoreapp3.1\TenThousandand1stPrime.genruntimeconfig.cache

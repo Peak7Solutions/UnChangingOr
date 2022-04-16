@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.exe
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.deps.json
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
+C:\f\CodeChef\UnChangingOr\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.genruntimeconfig.cache

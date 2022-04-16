@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.exe
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.deps.json
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.dll
+C:\f\CodeChef\UnChangingOr\Multiples3and5\bin\Debug\netcoreapp3.1\Multiples3and5.pdb
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.dll
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.pdb
+C:\f\CodeChef\UnChangingOr\Multiples3and5\obj\Debug\netcoreapp3.1\Multiples3and5.genruntimeconfig.cache

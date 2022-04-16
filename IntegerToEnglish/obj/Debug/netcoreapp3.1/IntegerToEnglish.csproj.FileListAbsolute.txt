@@ -1,0 +1,13 @@
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.exe
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.deps.json
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.runtimeconfig.json
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.runtimeconfig.dev.json
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.dll
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\bin\Debug\netcoreapp3.1\IntegerToEnglish.pdb
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.GeneratedMSBuildEditorConfig.editorconfig
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.AssemblyInfoInputs.cache
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.AssemblyInfo.cs
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.csproj.CoreCompileInputs.cache
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.dll
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.pdb
+C:\f\CodeChef\UnChangingOr\IntegerToEnglish\obj\Debug\netcoreapp3.1\IntegerToEnglish.genruntimeconfig.cache
